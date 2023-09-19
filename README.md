@@ -20,4 +20,4 @@
 ✅서로 배려하면서 활동하기  
 
 
-<img border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/65d479fa-3d69-46b9-a5a9-1d55ed0048d6"/>
+<img width="120" height="240" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/65d479fa-3d69-46b9-a5a9-1d55ed0048d6"/>
