@@ -1,19 +1,17 @@
 # TEAM1_전국방방코코 Introduce
 저희는 전국방방코코입니다!
-<<<<<<< HEAD
-## 팀원 구성
--정정욱 
-=======
+
 ## 👤팀원 구성👤
 
 | 팀원   | 프로필 사진| 자기소개 |
 | ------ | ------ | ----------- |
-| 강치우 | <img width="80" height="80" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/18124bce-d159-4a4d-8ee2-65366eb53f0d"/>|  text         |
+| 강치우 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/18124bce-d159-4a4d-8ee2-65366eb53f0d"/>|  text         |
 | 김재승 |        |             |
-| 정정욱 | <img width="80" height="80" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/18124bce-d159-4a4d-8ee2-65366eb53f0d"/>|             |
+| 정정욱 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/18124bce-d159-4a4d-8ee2-65366eb53f0d"/>|             |
 | 백대홍 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/75058050/b1e90fe5-defa-4521-985e-53fe607178fd"/>| Text        |
 | 정인선 |        |             |
 | 홍세희 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/103061387/b21a81ed-1c44-46bc-b9b4-93ca1e629067"/>| Text        |
+
 ## 🎯팀 목표🎯
 ✅부족한 부분을 채워가자!!  
 ✅전원 끝까지 완주하자!!  
