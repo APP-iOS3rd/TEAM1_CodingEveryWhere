@@ -11,13 +11,10 @@
 | ------ | ------ | ----------- |
 | 강치우 |        |             |
 | 김재승 |        |             |
-<<<<<<< HEAD
-| 정정욱 | <img width="80" height="80" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/18124bce-d159-4a4d-8ee2-65366eb53f0d"/>       |             |
+| 정정욱 | <img width="80" height="80" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/18124bce-d159-4a4d-8ee2-65366eb53f0d"/>|             |
 | 백대홍 |        |             |
-=======
 | 정정욱 |        |             |
 | 백대홍 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/75058050/b1e90fe5-defa-4521-985e-53fe607178fd"/>| Text        |
->>>>>>> 94462585183f17b275074e65ffa2f7aa7f907e21
 | 정인선 |        |             |
 | 홍세희 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/103061387/b21a81ed-1c44-46bc-b9b4-93ca1e629067"/>| Text        |
 ## 🎯팀 목표🎯
