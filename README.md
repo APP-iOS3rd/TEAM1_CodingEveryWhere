@@ -20,4 +20,4 @@
 ✅서로 배려하면서 활동하기  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonguk29&theme=dark&show_icons=true)
