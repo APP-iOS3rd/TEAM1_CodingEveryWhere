@@ -7,7 +7,7 @@
 | 강치우 |        |             |
 | 김재승 |        |             |
 | 정정욱 |        |             |
-| 백대홍 |        |             |
+| 백대홍 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/75058050/b1e90fe5-defa-4521-985e-53fe607178fd"/>| Text        |
 | 정인선 |        |             |
 | 홍세희 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/103061387/b21a81ed-1c44-46bc-b9b4-93ca1e629067"/>| Text        |
 ## 🎯팀 목표🎯
@@ -16,3 +16,4 @@
 ## 📖팀 규칙📖
 ✅물어보고 싶은 내용 속으로 삭히지 말고 바로바로 말하기  
 ✅서로 배려하면서 활동하기  
+
