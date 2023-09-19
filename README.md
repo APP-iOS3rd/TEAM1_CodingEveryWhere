@@ -1,5 +1,5 @@
-# TEAM1_CodingEveryWhere
-
+# TEAM1_전국방방코코 Introduce
+저희는 전국방방코코입니다!
 ## 팀원 구성
 - 김재승
 
