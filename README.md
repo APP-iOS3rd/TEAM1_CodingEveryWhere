@@ -20,6 +20,6 @@
 ✅물어보고 싶은 내용 속으로 삭히지 말고 바로바로 말하기  
 ✅서로 배려하면서 활동하기  
 ## 🗒️To do
-[ ] git 기본 배우기
+- [ ] git 기본 배우기
 <a href="https://www.youtube.com/watch?v=zTIsDSwlcUI&t=1s"><img src="https://img.youtube.com/vi/TIsDSwlcUI&t=1s/0.jpg"></a>
-[ ] task2
+- [ ] task2
