@@ -3,7 +3,7 @@
 # TEAM1_전국방방코코 Introduce
 저희는 전국방방코코입니다!
 
-## 👤팀원 구성👤
+## 👤 팀원 구성 👤
 
 | 팀원   | 프로필 사진| 자기소개 |
 | ------ | ------ | ----------- |
@@ -14,12 +14,12 @@
 | 정인선 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/120158212/6db2684a-2d01-45b5-9c89-1dbb0091ff07"/>|             |
 | 홍세희 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/103061387/b21a81ed-1c44-46bc-b9b4-93ca1e629067"/>| Text        |
 
-## 🎯팀 목표🎯
+## 🎯팀 목표 🎯
 
 * 부족한 부분을 서로 채워가기  
 *  전원 끝까지 완주하는 마음으로 열심히 하기  
 
-## 📖팀 규칙📖
+## 📖 팀 규칙 📖
 * 물어보고 싶은 내용 속으로 삭히지 말고 바로바로 말하기  
 * 서로 배려하면서 활동하기  
 
