@@ -8,14 +8,15 @@
   <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <a href="https://discord.gg/fzwmJ5vRGn"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 </p>
+
 ## 👤팀원 구성👤
 
 
 | 팀원   | 프로필 사진| 자기소개 |
 | ------ | ------ | ----------- |
-| 강치우 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/112779139/7055510f-067b-4d31-8b75-762a3d07bb64"/>| 뉴진스를 좋아하는 사람입니다         |
-| 김재승 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/141672096/76700313-13e2-493b-8784-3c6ba14bb30d"/>       |             |
-| 정정욱 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/18124bce-d159-4a4d-8ee2-65366eb53f0d"/>|             |
+| 강치우 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/112779139/7055510f-067b-4d31-8b75-762a3d07bb64"/>| ios 개발자를 꿈꾸는 강치우 입니다. <br> 뉴진스 사랑해요 s2         |
+| 김재승 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/141672096/76700313-13e2-493b-8784-3c6ba14bb30d"/>       |   정말 반갑습ㄴㅣㅏㄷ.          |
+| 정정욱 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/18124bce-d159-4a4d-8ee2-65366eb53f0d"/>| Apple을 사랑하는 iOS 개발자 woogie 입니다.  |
 | 백대홍 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/75058050/b1e90fe5-defa-4521-985e-53fe607178fd"/>| Text        |
 | 정인선 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/120158212/255d6532-0367-444e-b966-1c4bebc9f15e"/>| 중요한 건 꺾였는데 그냥 하는 마음...     |
 | 홍세희 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/103061387/b21a81ed-1c44-46bc-b9b4-93ca1e629067"/>| 여러가지 도전하는 것을 좋아하고, 흥미가 끝까지 이어지길 치열하게 고민하는 홍세희입니다. <br> 서로 자극 받아가며 열심히 공부하고 싶습니다🙌       |
