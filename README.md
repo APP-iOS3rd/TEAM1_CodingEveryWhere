@@ -12,7 +12,7 @@
 | 강치우 |        |             |
 | 김재승 |        |             |
 <<<<<<< HEAD
-| 정정욱 | <img width="80" height="80" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/9f4229a6-0cc0-4f82-9e55-196fafdd5c7a"/>       |             |
+| 정정욱 | <img width="80" height="80" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/18124bce-d159-4a4d-8ee2-65366eb53f0d"/>       |             |
 | 백대홍 |        |             |
 =======
 | 정정욱 |        |             |
