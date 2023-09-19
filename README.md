@@ -24,3 +24,5 @@
 물어보고 싶은 내용 속으로 삭히지 말고 바로바로 말하기  
 서로 배려하면서 활동하기  
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
