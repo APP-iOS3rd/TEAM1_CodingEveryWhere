@@ -9,7 +9,7 @@
 | 김재승 |        |             |
 | 정정욱 |        |             |
 | 백대홍 |        |             |
-|     정인선   |        |             |
+| 정인선 |        |             |
 | 홍세희 | <img width="80%" src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/103061387/084bfd52-c07d-44a8-99ab-7bbc475bf7ae"/>   | Text        |
 ## 팀 목표 
 
