@@ -14,8 +14,7 @@
 | 정정욱 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/18124bce-d159-4a4d-8ee2-65366eb53f0d"/>|             |
 | 백대홍 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/75058050/b1e90fe5-defa-4521-985e-53fe607178fd"/>| Text        |
 | 정인선 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/120158212/6db2684a-2d01-45b5-9c89-1dbb0091ff07"/>|             |
-| 홍세희 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/103061387/b21a81ed-1c44-46bc-b9b4-93ca1e629067"/>| 여러가지 도전하는 것을 좋아하고, 흥미가 끝까지 이어지길 치열하게 고민하는 홍세희입니다.  
-서로 자극 받아가며 열심히 공부하고 싶습니다🙌       |
+| 홍세희 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/103061387/b21a81ed-1c44-46bc-b9b4-93ca1e629067"/>| 여러가지 도전하는 것을 좋아하고, 흥미가 끝까지 이어지길 치열하게 고민하는 홍세희입니다. <br> 서로 자극 받아가며 열심히 공부하고 싶습니다🙌       |
 
 ## 🎯팀 목표 🎯
 
