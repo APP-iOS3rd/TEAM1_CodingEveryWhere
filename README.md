@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://camo.githubusercontent.com/bed077e98537eaab6f7a1bf122fac080c09ecc7035737cba28171d309efec8a5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736861726b26636f6c6f723d6772616469656e74266865696768743d313430)
 
 # TEAM1_전국방방코코 Introduce
 저희는 전국방방코코입니다!
