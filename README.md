@@ -8,13 +8,13 @@
   <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <a href="https://discord.gg/fzwmJ5vRGn"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 </p>
-## 👤팀원 구성👤
+##👤팀원 구성👤
 
 
 | 팀원   | 프로필 사진| 자기소개 |
 | ------ | ------ | ----------- |
 | 강치우 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/112779139/7055510f-067b-4d31-8b75-762a3d07bb64"/>| 뉴진스를 좋아하는 사람입니다         |
-| 김재승 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/141672096/76700313-13e2-493b-8784-3c6ba14bb30d"/>       |             |
+| 김재승 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/141672096/76700313-13e2-493b-8784-3c6ba14bb30d"/>       |   정말 반갑습ㄴㅣㅏㄷ.          |
 | 정정욱 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/54401641/18124bce-d159-4a4d-8ee2-65366eb53f0d"/>|             |
 | 백대홍 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/75058050/b1e90fe5-defa-4521-985e-53fe607178fd"/>| Text        |
 | 정인선 | <img width="120" height="120" border:0px src="https://github.com/APP-iOS3rd/TEAM1_CodingEveryWhere/assets/120158212/6db2684a-2d01-45b5-9c89-1dbb0091ff07"/>|             |
