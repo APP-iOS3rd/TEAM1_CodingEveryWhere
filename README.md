@@ -9,7 +9,7 @@
   <a href="https://discord.gg/fzwmJ5vRGn"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 </p>
 
-##👤팀원 구성👤
+👤팀원 구성👤
 
 
 | 팀원   | 프로필 사진| 자기소개 |
