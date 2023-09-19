@@ -37,7 +37,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonguk29&theme=kacho_ga&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearkang1&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangciu&theme=transparent&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=withseon&theme=shadow_red&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAY-Hong&theme=synthwave&show_icons=true)
