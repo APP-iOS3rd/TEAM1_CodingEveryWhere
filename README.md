@@ -26,5 +26,3 @@
 <p>
   <a href="https://www.youtube.com/watch?v=zTIsDSwlcUI&t=1s"><img src="https://img.youtube.com/vi/zTIsDSwlcUI&t=1s/0.jpg"/></a>
 </p>
-- [ ] task2
-<p></p>
