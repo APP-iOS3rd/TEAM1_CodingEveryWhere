@@ -1,7 +1,9 @@
 # TEAM1_전국방방코코 Introduce
 저희는 전국방방코코입니다!
-<img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-<a href="https://discord.gg/fzwmJ5vRGn"><img src="https://img.shields.io/badge/discord-#5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+<p>
+  <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+  <a href="https://discord.gg/fzwmJ5vRGn"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+</p>
 ## 👤팀원 구성👤
 
 | 팀원   | 프로필 사진| 자기소개 |
@@ -21,5 +23,8 @@
 ✅서로 배려하면서 활동하기  
 ## 🗒️To do
 - [ ] git 기본 배우기
-<a href="https://www.youtube.com/watch?v=zTIsDSwlcUI&t=1s"><img src="https://img.youtube.com/vi/TIsDSwlcUI&t=1s/0.jpg"></a>
+<p>
+  <a href="https://www.youtube.com/watch?v=zTIsDSwlcUI&t=1s"><img src="https://img.youtube.com/vi/TIsDSwlcUI&t=1s/0.jpg"/></a>
+</p>
 - [ ] task2
+<p></p>
