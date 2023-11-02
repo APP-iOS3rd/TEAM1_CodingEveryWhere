@@ -10,7 +10,7 @@ import SwiftUI
 struct metorDetailView: View {
     var teacher: Data
     var body: some View {
-        NavigationStack{
+        NavigationStack {
             ScrollView {
                 VStack(spacing: 20) {
                     Image(teacher.image)
