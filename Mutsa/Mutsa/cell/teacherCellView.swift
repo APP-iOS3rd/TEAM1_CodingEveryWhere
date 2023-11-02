@@ -16,7 +16,7 @@ struct teacherCellView: View {
                 .resizable()
                 .frame(width: 70, height: 70)
                 .clipShape(Circle())
-            VStack(alignment: .leading, spacing: 30) {
+            VStack(alignment: .leading, spacing: 10) {
                 Text(teacher.name)
                     .font(.system(size: 30))
                 Text(teacher.position)

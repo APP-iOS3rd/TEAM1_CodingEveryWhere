@@ -30,6 +30,7 @@ struct BottlesView: View {
                     .foregroundStyle(Color.gray)
                     .foregroundColor(.black)
             }
+            .padding(.leading)
             .navigationTitle("bottles")
             
             
