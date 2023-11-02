@@ -26,7 +26,10 @@ struct introduceListView: View {
                     }
                 }
                 
-            }.navigationTitle("강사진 및 멘토링 소개")
+            }
+            .navigationTitle("강사진 및 멘토링 소개")
+            .scrollContentBackground(.hidden)
+            .background(Color.orange)
         }
     }
 }
