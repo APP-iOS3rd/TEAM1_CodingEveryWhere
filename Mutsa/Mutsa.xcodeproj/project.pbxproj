@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC6D76A82AF3DBCE0048CD34 /* BootCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6D76A72AF3DBCE0048CD34 /* BootCard.swift */; };
+		AC6D76BA2AF3DE140048CD34 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6D76B52AF3DCAC0048CD34 /* MainView.swift */; };
+		AC6D76BB2AF3DE140048CD34 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6D76B62AF3DCAC0048CD34 /* SwiftUIView.swift */; };
+		AC6D76BC2AF3DE140048CD34 /* BootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6D76B92AF3DDE00048CD34 /* BootView.swift */; };
+		AC6D76BD2AF3DE140048CD34 /* BottlesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6D76B42AF3DCAC0048CD34 /* BottlesView.swift */; };
+		AC6D76BE2AF3DE140048CD34 /* GitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6D76B72AF3DCAC0048CD34 /* GitView.swift */; };
 		B18D46082AF39F060043FABA /* picture in Resources */ = {isa = PBXBuildFile; fileRef = B18D46072AF39F060043FABA /* picture */; };
 		B18D460B2AF3AFF80043FABA /* teacherDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B18D46052AF37F9F0043FABA /* teacherDetailView.swift */; };
 		B18D460D2AF3B3BF0043FABA /* mentorCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B18D460C2AF3B3BF0043FABA /* mentorCellView.swift */; };
@@ -22,6 +28,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AC6D76A72AF3DBCE0048CD34 /* BootCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BootCard.swift; sourceTree = "<group>"; };
+		AC6D76B42AF3DCAC0048CD34 /* BottlesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottlesView.swift; sourceTree = "<group>"; };
+		AC6D76B52AF3DCAC0048CD34 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		AC6D76B62AF3DCAC0048CD34 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		AC6D76B72AF3DCAC0048CD34 /* GitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitView.swift; sourceTree = "<group>"; };
+		AC6D76B92AF3DDE00048CD34 /* BootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BootView.swift; sourceTree = "<group>"; };
 		B18D46052AF37F9F0043FABA /* teacherDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = teacherDetailView.swift; sourceTree = "<group>"; };
 		B18D46072AF39F060043FABA /* picture */ = {isa = PBXFileReference; lastKnownFileType = folder; path = picture; sourceTree = "<group>"; };
 		B18D460C2AF3B3BF0043FABA /* mentorCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mentorCellView.swift; sourceTree = "<group>"; };
@@ -93,11 +105,16 @@
 		B19D62662AF37064006B8C6E /* Mutsa */ = {
 			isa = PBXGroup;
 			children = (
+				B19D62672AF37064006B8C6E /* MutsaApp.swift */,
+				AC6D76B92AF3DDE00048CD34 /* BootView.swift */,
+				AC6D76B62AF3DCAC0048CD34 /* SwiftUIView.swift */,
+				AC6D76B42AF3DCAC0048CD34 /* BottlesView.swift */,
+				AC6D76B72AF3DCAC0048CD34 /* GitView.swift */,
+				AC6D76B52AF3DCAC0048CD34 /* MainView.swift */,
 				B18D46152AF3C4740043FABA /* network */,
 				B18D46142AF3C45B0043FABA /* detail */,
 				B18D46132AF3C44B0043FABA /* cell */,
 				B19D62752AF37069006B8C6E /* Model */,
-				B19D62672AF37064006B8C6E /* MutsaApp.swift */,
 				B19D62692AF37064006B8C6E /* ContentView.swift */,
 				B19D62762AF3707E006B8C6E /* introduceListView.swift */,
 				B19D626B2AF37065006B8C6E /* Assets.xcassets */,
@@ -119,6 +136,7 @@
 			isa = PBXGroup;
 			children = (
 				B19D62782AF37096006B8C6E /* dataSet.swift */,
+				AC6D76A72AF3DBCE0048CD34 /* BootCard.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -196,10 +214,16 @@
 			files = (
 				B18D460E2AF3B52E0043FABA /* introduceListView.swift in Sources */,
 				B19D627B2AF371A4006B8C6E /* teacherCellView.swift in Sources */,
+				AC6D76BE2AF3DE140048CD34 /* GitView.swift in Sources */,
+				AC6D76BD2AF3DE140048CD34 /* BottlesView.swift in Sources */,
+				AC6D76BC2AF3DE140048CD34 /* BootView.swift in Sources */,
+				AC6D76BB2AF3DE140048CD34 /* SwiftUIView.swift in Sources */,
 				B18D460D2AF3B3BF0043FABA /* mentorCellView.swift in Sources */,
 				B19D626A2AF37064006B8C6E /* ContentView.swift in Sources */,
 				B18D46102AF3B7E00043FABA /* mentorDetailView.swift in Sources */,
+				AC6D76A82AF3DBCE0048CD34 /* BootCard.swift in Sources */,
 				B18D460B2AF3AFF80043FABA /* teacherDetailView.swift in Sources */,
+				AC6D76BA2AF3DE140048CD34 /* MainView.swift in Sources */,
 				B18D46122AF3C19F0043FABA /* WebView.swift in Sources */,
 				B19D62792AF37096006B8C6E /* dataSet.swift in Sources */,
 				B19D62682AF37064006B8C6E /* MutsaApp.swift in Sources */,

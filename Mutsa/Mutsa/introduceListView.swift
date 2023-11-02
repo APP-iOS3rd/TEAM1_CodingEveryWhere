@@ -18,7 +18,7 @@ struct introduceListView: View {
                         }
                     }
                 }
-                Section(header: Text("멘토단").font(.title3)) {
+                Section(header: Text("멘토진").font(.title3)) {
                     ForEach(mentorData) { mentor in
                         NavigationLink(destination: mentorDetailView(mentor: mentor)) {
                             mentorCellView(mentor: mentor)

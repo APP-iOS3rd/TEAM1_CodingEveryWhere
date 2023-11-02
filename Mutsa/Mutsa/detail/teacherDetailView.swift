@@ -56,7 +56,7 @@ struct teacherDetailView: View {
 
                     }.padding()
                 }
-                .ignoresSafeArea()
+                
             }
         }
     }

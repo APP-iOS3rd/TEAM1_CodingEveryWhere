@@ -15,6 +15,7 @@ struct mentorCellView: View {
             Image(mentor.image)
                 .resizable()
                 .frame(width: 70, height: 70)
+                .clipShape(Circle())
             VStack(alignment: .leading, spacing: 30) {
                 Text(mentor.name)
                     .font(.system(size: 30))
