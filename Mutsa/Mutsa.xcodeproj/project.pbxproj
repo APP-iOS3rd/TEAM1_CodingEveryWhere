@@ -13,8 +13,6 @@
 		AC6D76BC2AF3DE140048CD34 /* BootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6D76B92AF3DDE00048CD34 /* BootView.swift */; };
 		AC6D76BD2AF3DE140048CD34 /* BottlesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6D76B42AF3DCAC0048CD34 /* BottlesView.swift */; };
 		AC6D76BE2AF3DE140048CD34 /* GitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6D76B72AF3DCAC0048CD34 /* GitView.swift */; };
-		AC6D76C22AF3E5D40048CD34 /* CurriculumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6D76BF2AF3E5D40048CD34 /* CurriculumView.swift */; };
-		AC6D76C32AF3E5D40048CD34 /* CurriculumCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6D76C02AF3E5D40048CD34 /* CurriculumCellView.swift */; };
 		AC6D76C62AF3E5DA0048CD34 /* CurriculumModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6D76C52AF3E5DA0048CD34 /* CurriculumModel.swift */; };
 		B18D46082AF39F060043FABA /* picture in Resources */ = {isa = PBXBuildFile; fileRef = B18D46072AF39F060043FABA /* picture */; };
 		B18D460B2AF3AFF80043FABA /* teacherDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B18D46052AF37F9F0043FABA /* teacherDetailView.swift */; };
@@ -28,6 +26,8 @@
 		B19D626F2AF37065006B8C6E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B19D626E2AF37065006B8C6E /* Preview Assets.xcassets */; };
 		B19D62792AF37096006B8C6E /* dataSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D62782AF37096006B8C6E /* dataSet.swift */; };
 		B19D627B2AF371A4006B8C6E /* teacherCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D627A2AF371A4006B8C6E /* teacherCellView.swift */; };
+		B1F0941C2AF3EBA800C6A0E6 /* CurriculumCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F0941B2AF3EBA800C6A0E6 /* CurriculumCellView.swift */; };
+		B1F0941E2AF3EBD300C6A0E6 /* CurriculumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F0941D2AF3EBD300C6A0E6 /* CurriculumView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,8 +37,6 @@
 		AC6D76B62AF3DCAC0048CD34 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		AC6D76B72AF3DCAC0048CD34 /* GitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitView.swift; sourceTree = "<group>"; };
 		AC6D76B92AF3DDE00048CD34 /* BootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BootView.swift; sourceTree = "<group>"; };
-		AC6D76BF2AF3E5D40048CD34 /* CurriculumView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CurriculumView.swift; path = ../../../../../Downloads/Techit_App_New/Techit_App_New/CurriculumView.swift; sourceTree = "<group>"; };
-		AC6D76C02AF3E5D40048CD34 /* CurriculumCellView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CurriculumCellView.swift; path = ../../../../../Downloads/Techit_App_New/Techit_App_New/CurriculumCellView.swift; sourceTree = "<group>"; };
 		AC6D76C52AF3E5DA0048CD34 /* CurriculumModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurriculumModel.swift; sourceTree = "<group>"; };
 		B18D46052AF37F9F0043FABA /* teacherDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = teacherDetailView.swift; sourceTree = "<group>"; };
 		B18D46072AF39F060043FABA /* picture */ = {isa = PBXFileReference; lastKnownFileType = folder; path = picture; sourceTree = "<group>"; };
@@ -53,6 +51,8 @@
 		B19D62762AF3707E006B8C6E /* introduceListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = introduceListView.swift; sourceTree = "<group>"; };
 		B19D62782AF37096006B8C6E /* dataSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dataSet.swift; sourceTree = "<group>"; };
 		B19D627A2AF371A4006B8C6E /* teacherCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = teacherCellView.swift; sourceTree = "<group>"; };
+		B1F0941B2AF3EBA800C6A0E6 /* CurriculumCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurriculumCellView.swift; sourceTree = "<group>"; };
+		B1F0941D2AF3EBD300C6A0E6 /* CurriculumView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurriculumView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,12 +113,12 @@
 			children = (
 				B19D62672AF37064006B8C6E /* MutsaApp.swift */,
 				AC6D76B92AF3DDE00048CD34 /* BootView.swift */,
-				AC6D76C02AF3E5D40048CD34 /* CurriculumCellView.swift */,
-				AC6D76BF2AF3E5D40048CD34 /* CurriculumView.swift */,
 				AC6D76B62AF3DCAC0048CD34 /* SwiftUIView.swift */,
 				AC6D76B42AF3DCAC0048CD34 /* BottlesView.swift */,
 				AC6D76B72AF3DCAC0048CD34 /* GitView.swift */,
 				AC6D76B52AF3DCAC0048CD34 /* MainView.swift */,
+				B1F0941B2AF3EBA800C6A0E6 /* CurriculumCellView.swift */,
+				B1F0941D2AF3EBD300C6A0E6 /* CurriculumView.swift */,
 				B18D46152AF3C4740043FABA /* network */,
 				B18D46142AF3C45B0043FABA /* detail */,
 				B18D46132AF3C44B0043FABA /* cell */,
@@ -224,11 +224,10 @@
 				B18D460E2AF3B52E0043FABA /* introduceListView.swift in Sources */,
 				B19D627B2AF371A4006B8C6E /* teacherCellView.swift in Sources */,
 				AC6D76BE2AF3DE140048CD34 /* GitView.swift in Sources */,
-				AC6D76C32AF3E5D40048CD34 /* CurriculumCellView.swift in Sources */,
+				B1F0941E2AF3EBD300C6A0E6 /* CurriculumView.swift in Sources */,
 				AC6D76BD2AF3DE140048CD34 /* BottlesView.swift in Sources */,
 				AC6D76C62AF3E5DA0048CD34 /* CurriculumModel.swift in Sources */,
 				AC6D76BC2AF3DE140048CD34 /* BootView.swift in Sources */,
-				AC6D76C22AF3E5D40048CD34 /* CurriculumView.swift in Sources */,
 				AC6D76BB2AF3DE140048CD34 /* SwiftUIView.swift in Sources */,
 				B18D460D2AF3B3BF0043FABA /* mentorCellView.swift in Sources */,
 				B19D626A2AF37064006B8C6E /* ContentView.swift in Sources */,
@@ -237,6 +236,7 @@
 				B18D460B2AF3AFF80043FABA /* teacherDetailView.swift in Sources */,
 				AC6D76BA2AF3DE140048CD34 /* MainView.swift in Sources */,
 				B18D46122AF3C19F0043FABA /* WebView.swift in Sources */,
+				B1F0941C2AF3EBA800C6A0E6 /* CurriculumCellView.swift in Sources */,
 				B19D62792AF37096006B8C6E /* dataSet.swift in Sources */,
 				B19D62682AF37064006B8C6E /* MutsaApp.swift in Sources */,
 			);

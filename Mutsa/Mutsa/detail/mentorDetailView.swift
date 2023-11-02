@@ -15,7 +15,7 @@ struct mentorDetailView: View {
                 VStack(spacing: 20) {
                     Image(mentor.image)
                         .resizable()
-                        .frame(width: 350, height: 240)
+                        .frame(width: 380, height: 350)
                         .aspectRatio(contentMode: .fit)
                         .cornerRadius(10)
                     
@@ -89,5 +89,5 @@ struct mentorDetailView: View {
 
 
 #Preview {
-    mentorDetailView(mentor:  MentorData(name: "박철현", image: "박철현", position: "Mentor", oneSentence: "여러분과 개발의 즐거움을 함께할 수 있었으면 합니다.", history: "• 프리랜서 iOS 개발자\n • 롯데카드, 컬리 등에서 근무\n", gitUrl: "https://github.com/blueprajna", blogUrl: ""))
+    mentorDetailView(mentor:  MentorData(name: "박철현", image: "park", position: "Mentor", oneSentence: "여러분과 개발의 즐거움을 함께할 수 있었으면 합니다.", history: "• 프리랜서 iOS 개발자\n • 롯데카드, 컬리 등에서 근무\n", gitUrl: "https://github.com/blueprajna", blogUrl: ""))
 }
