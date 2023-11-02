@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B18D46082AF39F060043FABA /* picture in Resources */ = {isa = PBXBuildFile; fileRef = B18D46072AF39F060043FABA /* picture */; };
 		B18D460B2AF3AFF80043FABA /* teacherDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B18D46052AF37F9F0043FABA /* teacherDetailView.swift */; };
 		B18D460D2AF3B3BF0043FABA /* mentorCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B18D460C2AF3B3BF0043FABA /* mentorCellView.swift */; };
 		B18D460E2AF3B52E0043FABA /* introduceListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D62762AF3707E006B8C6E /* introduceListView.swift */; };
@@ -23,7 +22,6 @@
 
 /* Begin PBXFileReference section */
 		B18D46052AF37F9F0043FABA /* teacherDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = teacherDetailView.swift; sourceTree = "<group>"; };
-		B18D46072AF39F060043FABA /* picture */ = {isa = PBXFileReference; lastKnownFileType = folder; path = picture; sourceTree = "<group>"; };
 		B18D460C2AF3B3BF0043FABA /* mentorCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mentorCellView.swift; sourceTree = "<group>"; };
 		B18D460F2AF3B7E00043FABA /* mentorDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mentorDetailView.swift; sourceTree = "<group>"; };
 		B19D62642AF37064006B8C6E /* Mutsa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mutsa.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -84,7 +82,6 @@
 				B19D62692AF37064006B8C6E /* ContentView.swift */,
 				B19D62762AF3707E006B8C6E /* introduceListView.swift */,
 				B19D626B2AF37065006B8C6E /* Assets.xcassets */,
-				B18D46072AF39F060043FABA /* picture */,
 				B19D626D2AF37065006B8C6E /* Preview Content */,
 			);
 			path = Mutsa;
@@ -181,7 +178,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B18D46082AF39F060043FABA /* picture in Resources */,
 				B19D626F2AF37065006B8C6E /* Preview Assets.xcassets in Resources */,
 				B19D626C2AF37065006B8C6E /* Assets.xcassets in Resources */,
 			);
