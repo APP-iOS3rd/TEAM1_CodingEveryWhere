@@ -18,6 +18,7 @@
 		B19D626F2AF37065006B8C6E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B19D626E2AF37065006B8C6E /* Preview Assets.xcassets */; };
 		B19D62792AF37096006B8C6E /* dataSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D62782AF37096006B8C6E /* dataSet.swift */; };
 		B19D627B2AF371A4006B8C6E /* teacherCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D627A2AF371A4006B8C6E /* teacherCellView.swift */; };
+		B1CBA5EA2AF3CFAD0001D0B3 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CBA5E92AF3CFAD0001D0B3 /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		B19D62762AF3707E006B8C6E /* introduceListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = introduceListView.swift; sourceTree = "<group>"; };
 		B19D62782AF37096006B8C6E /* dataSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dataSet.swift; sourceTree = "<group>"; };
 		B19D627A2AF371A4006B8C6E /* teacherCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = teacherCellView.swift; sourceTree = "<group>"; };
+		B1CBA5E92AF3CFAD0001D0B3 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +48,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B18D46162AF3CB6E0043FABA /* cell */ = {
+			isa = PBXGroup;
+			children = (
+				B19D627A2AF371A4006B8C6E /* teacherCellView.swift */,
+				B18D460C2AF3B3BF0043FABA /* mentorCellView.swift */,
+			);
+			path = cell;
+			sourceTree = "<group>";
+		};
 		B19D625B2AF37064006B8C6E = {
 			isa = PBXGroup;
 			children = (
@@ -65,14 +76,13 @@
 		B19D62662AF37064006B8C6E /* Mutsa */ = {
 			isa = PBXGroup;
 			children = (
+				B18D46162AF3CB6E0043FABA /* cell */,
+				B1CBA5E82AF3CF3E0001D0B3 /* network */,
+				B1CBA5E72AF3CF370001D0B3 /* detail */,
 				B19D62752AF37069006B8C6E /* Model */,
 				B19D62672AF37064006B8C6E /* MutsaApp.swift */,
 				B19D62692AF37064006B8C6E /* ContentView.swift */,
-				B19D627A2AF371A4006B8C6E /* teacherCellView.swift */,
-				B18D460C2AF3B3BF0043FABA /* mentorCellView.swift */,
 				B19D62762AF3707E006B8C6E /* introduceListView.swift */,
-				B18D46052AF37F9F0043FABA /* teacherDetailView.swift */,
-				B18D460F2AF3B7E00043FABA /* mentorDetailView.swift */,
 				B19D626B2AF37065006B8C6E /* Assets.xcassets */,
 				B18D46072AF39F060043FABA /* picture */,
 				B19D626D2AF37065006B8C6E /* Preview Content */,
@@ -94,6 +104,23 @@
 				B19D62782AF37096006B8C6E /* dataSet.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		B1CBA5E72AF3CF370001D0B3 /* detail */ = {
+			isa = PBXGroup;
+			children = (
+				B18D460F2AF3B7E00043FABA /* mentorDetailView.swift */,
+				B18D46052AF37F9F0043FABA /* teacherDetailView.swift */,
+			);
+			path = detail;
+			sourceTree = "<group>";
+		};
+		B1CBA5E82AF3CF3E0001D0B3 /* network */ = {
+			isa = PBXGroup;
+			children = (
+				B1CBA5E92AF3CFAD0001D0B3 /* WebView.swift */,
+			);
+			path = network;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -173,6 +200,7 @@
 				B19D626A2AF37064006B8C6E /* ContentView.swift in Sources */,
 				B18D46102AF3B7E00043FABA /* mentorDetailView.swift in Sources */,
 				B18D460B2AF3AFF80043FABA /* teacherDetailView.swift in Sources */,
+				B1CBA5EA2AF3CFAD0001D0B3 /* WebView.swift in Sources */,
 				B19D62792AF37096006B8C6E /* dataSet.swift in Sources */,
 				B19D62682AF37064006B8C6E /* MutsaApp.swift in Sources */,
 			);
