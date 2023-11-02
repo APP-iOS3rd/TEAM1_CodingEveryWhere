@@ -12,6 +12,7 @@
 		B18D460D2AF3B3BF0043FABA /* mentorCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B18D460C2AF3B3BF0043FABA /* mentorCellView.swift */; };
 		B18D460E2AF3B52E0043FABA /* introduceListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D62762AF3707E006B8C6E /* introduceListView.swift */; };
 		B18D46102AF3B7E00043FABA /* mentorDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B18D460F2AF3B7E00043FABA /* mentorDetailView.swift */; };
+		B18D46122AF3C19F0043FABA /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B18D46112AF3C19F0043FABA /* WebView.swift */; };
 		B19D62682AF37064006B8C6E /* MutsaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D62672AF37064006B8C6E /* MutsaApp.swift */; };
 		B19D626A2AF37064006B8C6E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D62692AF37064006B8C6E /* ContentView.swift */; };
 		B19D626C2AF37065006B8C6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B19D626B2AF37065006B8C6E /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 		B18D46072AF39F060043FABA /* picture */ = {isa = PBXFileReference; lastKnownFileType = folder; path = picture; sourceTree = "<group>"; };
 		B18D460C2AF3B3BF0043FABA /* mentorCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mentorCellView.swift; sourceTree = "<group>"; };
 		B18D460F2AF3B7E00043FABA /* mentorDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mentorDetailView.swift; sourceTree = "<group>"; };
+		B18D46112AF3C19F0043FABA /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 		B19D62642AF37064006B8C6E /* Mutsa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mutsa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B19D62672AF37064006B8C6E /* MutsaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MutsaApp.swift; sourceTree = "<group>"; };
 		B19D62692AF37064006B8C6E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -46,6 +48,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B18D46132AF3C44B0043FABA /* cell */ = {
+			isa = PBXGroup;
+			children = (
+				B19D627A2AF371A4006B8C6E /* teacherCellView.swift */,
+				B18D460C2AF3B3BF0043FABA /* mentorCellView.swift */,
+			);
+			path = cell;
+			sourceTree = "<group>";
+		};
+		B18D46142AF3C45B0043FABA /* detail */ = {
+			isa = PBXGroup;
+			children = (
+				B18D460F2AF3B7E00043FABA /* mentorDetailView.swift */,
+				B18D46052AF37F9F0043FABA /* teacherDetailView.swift */,
+			);
+			path = detail;
+			sourceTree = "<group>";
+		};
+		B18D46152AF3C4740043FABA /* network */ = {
+			isa = PBXGroup;
+			children = (
+				B18D46112AF3C19F0043FABA /* WebView.swift */,
+			);
+			path = network;
+			sourceTree = "<group>";
+		};
 		B19D625B2AF37064006B8C6E = {
 			isa = PBXGroup;
 			children = (
@@ -65,14 +93,13 @@
 		B19D62662AF37064006B8C6E /* Mutsa */ = {
 			isa = PBXGroup;
 			children = (
+				B18D46152AF3C4740043FABA /* network */,
+				B18D46142AF3C45B0043FABA /* detail */,
+				B18D46132AF3C44B0043FABA /* cell */,
 				B19D62752AF37069006B8C6E /* Model */,
 				B19D62672AF37064006B8C6E /* MutsaApp.swift */,
 				B19D62692AF37064006B8C6E /* ContentView.swift */,
-				B19D627A2AF371A4006B8C6E /* teacherCellView.swift */,
-				B18D460C2AF3B3BF0043FABA /* mentorCellView.swift */,
 				B19D62762AF3707E006B8C6E /* introduceListView.swift */,
-				B18D46052AF37F9F0043FABA /* teacherDetailView.swift */,
-				B18D460F2AF3B7E00043FABA /* mentorDetailView.swift */,
 				B19D626B2AF37065006B8C6E /* Assets.xcassets */,
 				B18D46072AF39F060043FABA /* picture */,
 				B19D626D2AF37065006B8C6E /* Preview Content */,
@@ -173,6 +200,7 @@
 				B19D626A2AF37064006B8C6E /* ContentView.swift in Sources */,
 				B18D46102AF3B7E00043FABA /* mentorDetailView.swift in Sources */,
 				B18D460B2AF3AFF80043FABA /* teacherDetailView.swift in Sources */,
+				B18D46122AF3C19F0043FABA /* WebView.swift in Sources */,
 				B19D62792AF37096006B8C6E /* dataSet.swift in Sources */,
 				B19D62682AF37064006B8C6E /* MutsaApp.swift in Sources */,
 			);

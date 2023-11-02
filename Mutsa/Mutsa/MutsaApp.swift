@@ -11,7 +11,7 @@ import SwiftUI
 struct MutsaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            introduceListView()
         }
     }
 }
