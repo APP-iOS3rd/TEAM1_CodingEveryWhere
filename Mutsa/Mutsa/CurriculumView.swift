@@ -8,72 +8,66 @@
 import SwiftUI
 
 struct CurriculumView: View {
-    
-    @State var pre = preLearning
-    @State var main = mainCurriculum
-    @State var pr = project
-    
+
+    @StateObject var vm = CurriculumModel()
+
     var body: some View {
         NavigationStack{
             List {
                 Section {
-                    ForEach(0..<preLearning.count, id: \.self) { i in
+                    ForEach(vm.curriculums.filter { $0.category == .preLearning }) { curriculum in
                         NavigationLink {
-                            CurriculumCellView(curriculum: $pre[i])
+                            CurriculumCellView(curriculum: curriculum)
                         } label: {
-                            VStack(alignment: .leading){
+                            VStack(alignment: .leading) {
                                 Text("[Live 강의]")
                                     .font(.footnote)
                                     .foregroundStyle(.gray)
                                     .padding(.bottom, 1)
-                                Text(preLearning[i].title)
+                                Text(curriculum.title)
                             }
                         }
                     }
-                    
-                    
+
+
                 } header: {
-                    Text("PRE-LEARNING")
+                    Text(Curriculum.Category.preLearning.rawValue)
                         .font(.title2)
                         .foregroundStyle(.black)
                 }
-                
+
                 Section {
-                    ForEach(0..<mainCurriculum.count, id: \.self) { i in
+                    ForEach(vm.curriculums.filter { $0.category == .mainCurriculum }) { curriculum in
                         NavigationLink {
-                            CurriculumCellView(curriculum: $main[i])
+                            CurriculumCellView(curriculum: curriculum)
                         } label: {
                             VStack(alignment: .leading) {
-                                Text("[STEP \(i)]")
-                                    .font(.footnote)
-                                    .foregroundStyle(.gray)
-                                    .padding(.bottom, 1)
-                                Text(mainCurriculum[i].title)
+                                Text(curriculum.title)
                             }
                         }
                     }
+
+
                 } header: {
-                    Text("MAIN CURRICULUM")
+                    Text(Curriculum.Category.mainCurriculum.rawValue)
                         .font(.title2)
                         .foregroundStyle(.black)
                 }
-                
+
                 Section {
-                    ForEach(0..<project.count, id: \.self) { i in
+                    ForEach(vm.curriculums.filter { $0.category == .project }) { curriculum in
                         NavigationLink {
-                            CurriculumCellView(curriculum: $pr[i])
+                            CurriculumCellView(curriculum: curriculum)
                         } label: {
                             VStack(alignment: .leading) {
-                                Text("[PROJECT \(i)]")
-                                    .font(.footnote)
-                                    .foregroundStyle(.gray)
-                                    .padding(.bottom, 1)
-                                Text(project[i].title)
+                                Text(curriculum.title)
                             }
                         }
                     }
+
+
                 } header: {
-                    Text("PROJECT")
+                    Text(Curriculum.Category.project.rawValue)
                         .font(.title2)
                         .foregroundStyle(.black)
                 }

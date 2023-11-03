@@ -69,6 +69,7 @@
 		B18D46132AF3C44B0043FABA /* cell */ = {
 			isa = PBXGroup;
 			children = (
+				B1F0941B2AF3EBA800C6A0E6 /* CurriculumCellView.swift */,
 				B19D627A2AF371A4006B8C6E /* teacherCellView.swift */,
 				B18D460C2AF3B3BF0043FABA /* mentorCellView.swift */,
 			);
@@ -117,14 +118,13 @@
 				AC6D76B42AF3DCAC0048CD34 /* BottlesView.swift */,
 				AC6D76B72AF3DCAC0048CD34 /* GitView.swift */,
 				AC6D76B52AF3DCAC0048CD34 /* MainView.swift */,
-				B1F0941B2AF3EBA800C6A0E6 /* CurriculumCellView.swift */,
 				B1F0941D2AF3EBD300C6A0E6 /* CurriculumView.swift */,
+				B19D62762AF3707E006B8C6E /* introduceListView.swift */,
+				B19D62692AF37064006B8C6E /* ContentView.swift */,
 				B18D46152AF3C4740043FABA /* network */,
 				B18D46142AF3C45B0043FABA /* detail */,
 				B18D46132AF3C44B0043FABA /* cell */,
 				B19D62752AF37069006B8C6E /* Model */,
-				B19D62692AF37064006B8C6E /* ContentView.swift */,
-				B19D62762AF3707E006B8C6E /* introduceListView.swift */,
 				B19D626B2AF37065006B8C6E /* Assets.xcassets */,
 				B18D46072AF39F060043FABA /* picture */,
 				B19D626D2AF37065006B8C6E /* Preview Content */,
