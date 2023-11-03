@@ -11,14 +11,14 @@ struct introduceListView: View {
     var body: some View {
         NavigationStack {
             List() {
-                Section(header: Text("강사진").font(.title3)) {
+                Section(header: Text("강사진").font(.title3).foregroundStyle(Color.purple)) {
                     ForEach(teacherData) { teacher in
                         NavigationLink(destination: teacherDetailView(teacher: teacher)) {
                             teacherCellView(teacher: teacher)
                         }
                     }
                 }
-                Section(header: Text("멘토단").font(.title3)) {
+                Section(header: Text("멘토진").font(.title3).foregroundStyle(Color.purple)) {
                     ForEach(mentorData) { mentor in
                         NavigationLink(destination: mentorDetailView(mentor: mentor)) {
                             mentorCellView(mentor: mentor)
@@ -26,10 +26,7 @@ struct introduceListView: View {
                     }
                 }
                 
-            }
-            .navigationTitle("강사진 및 멘토링 소개")
-            .scrollContentBackground(.hidden)
-            .background(Color.orange)
+            }.navigationTitle("강사진 및 멘토링 소개")
         }
     }
 }

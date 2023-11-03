@@ -40,7 +40,6 @@ let mentorData: [MentorData] = [
     MentorData(name: "이소영", image: "ott", position: "Mentor", oneSentence: "꿋꿋하게 내 갈 길을 가는 것! 내실을 쌓아가는 것!", history: "• 빗썸코리아에서  iOS 개발 근무 중\n • 사이드 프로젝트 '모지또' 앱 제작 중\n", gitUrl: "github.com/hohyeonmoon", blogUrl: "https://ohttios.tistory.com/"),
     MentorData(name: "문호현", image: "moon", position: "Mentor", oneSentence: " 명확한 목표를 갖고 개발을 생활화해서 적당히 공부하고 사용해 봅시다.", history: "• 현) AI 스타트업에서 iOS 개발자 근무\n • 전) 리디 근무\n • 민사고, UC 버클리, 서울대 연구실\n", gitUrl: "https://github.com/hohyeonmoon", blogUrl: "https://www.hohyeonmoon.com"),
     
-    
 ]
 
 struct teacherDataView: View {

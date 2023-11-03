@@ -15,7 +15,7 @@ struct teacherDetailView: View {
                 VStack(spacing: 20) {
                     Image(teacher.image)
                         .resizable()
-                        .frame(width: .infinity, height: 240)
+                        .frame(width: 380, height: 350)
                         .aspectRatio(contentMode: .fit)
                         .cornerRadius(10)
 
@@ -56,7 +56,7 @@ struct teacherDetailView: View {
 
                     }.padding()
                 }
-                .ignoresSafeArea()
+                
             }
         }
     }
