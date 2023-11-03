@@ -32,6 +32,7 @@ struct BootView: View {
                 
                 introduceListView()
             }
+            .padding(.leading)
             .navigationTitle("BootCamping")
             
             // Parallax Carouael
