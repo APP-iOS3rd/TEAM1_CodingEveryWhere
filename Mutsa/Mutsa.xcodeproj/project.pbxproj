@@ -77,6 +77,9 @@
 		B18D46142AF3C45B0043FABA /* detail */ = {
 			isa = PBXGroup;
 			children = (
+				AC6D76B92AF3DDE00048CD34 /* BootView.swift */,
+				AC6D76B42AF3DCAC0048CD34 /* BottlesView.swift */,
+				AC6D76B72AF3DCAC0048CD34 /* GitView.swift */,
 				B18D460F2AF3B7E00043FABA /* mentorDetailView.swift */,
 				B18D46052AF37F9F0043FABA /* teacherDetailView.swift */,
 			);
@@ -111,9 +114,6 @@
 			isa = PBXGroup;
 			children = (
 				B19D62672AF37064006B8C6E /* MutsaApp.swift */,
-				AC6D76B92AF3DDE00048CD34 /* BootView.swift */,
-				AC6D76B42AF3DCAC0048CD34 /* BottlesView.swift */,
-				AC6D76B72AF3DCAC0048CD34 /* GitView.swift */,
 				AC6D76B52AF3DCAC0048CD34 /* MainView.swift */,
 				B1F0941D2AF3EBD300C6A0E6 /* CurriculumView.swift */,
 				B19D62762AF3707E006B8C6E /* introduceListView.swift */,

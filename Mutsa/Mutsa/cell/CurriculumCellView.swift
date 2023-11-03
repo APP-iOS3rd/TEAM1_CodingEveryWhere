@@ -15,22 +15,18 @@ struct CurriculumCellView: View {
         ScrollView(.vertical) {
             HStack {
                 VStack(alignment: .leading) {
-
-                    ForEach(0..<curriculum.subCurriculum.count, id: \.self) { i in
-                        if curriculum.subCurriculum[i].subTitle != "" {
-                            Text(curriculum.subCurriculum[i].subTitle)
+                    ForEach(curriculum.subCurriculums) { subCurriculum in
+                        if subCurriculum.subTitle != "" {
+                            Text(subCurriculum.subTitle)
                                 .font(.title3)
                                 .bold()
-                                .padding(.top, 10)
+                                .padding(.top, 15)
+                                .padding(.bottom, 2)
+                        }
+                        ForEach(subCurriculum.subDetails, id: \.self) { detail in
+                            Text("• \(detail)")
                                 .padding(.bottom, 3)
-
                         }
-                        ForEach(0..<curriculum.subCurriculum[i].subDetail.count, id: \.self) { j in
-                            Text("\(j+1). \(curriculum.subCurriculum[i].subDetail[j])")
-                                .padding(5)
-                        }
-                        Spacer()
-                            .frame(height: 20)
                     }
                 }
                 Spacer()

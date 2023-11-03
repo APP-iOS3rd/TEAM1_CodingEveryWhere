@@ -29,8 +29,6 @@ struct BootView: View {
                     .padding(.top, 5)
                     .foregroundStyle(Color.gray)
                     .foregroundColor(.black)
-                
-                introduceListView()
             }
             .padding(.leading)
             .navigationTitle("BootCamping")
